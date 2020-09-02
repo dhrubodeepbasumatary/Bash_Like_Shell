@@ -1,6 +1,6 @@
 /*
     task:implement various mathematical calculation like +,-,*,/,%
-    Author:Hemant Kumar
+    Author: Dhrubodeep
 */
 
 /*
